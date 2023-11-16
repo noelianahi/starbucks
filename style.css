@@ -1,0 +1,146 @@
+.navbar {
+  padding-left: 70px;
+  padding-right: 70px;
+}
+.slide {
+  margin-top: 10px;
+ }
+
+.slide img {
+  height: 650px;
+}
+
+.aboutus{
+  padding-top: 80px;
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-bottom: 80px;
+  margin: 0px;
+}
+
+.imghome{
+  width: 600px;
+  border-radius: 15px;
+  align-self: center;
+}
+
+.parrafos{
+  font-family: Roboto;
+  color: #404040;
+  font-size: 18px;
+
+}
+
+.titulos1{
+  font-family: Roboto;
+  font-size: 35px;
+  font-weight: bold;
+  color: #2f6144;
+}
+
+.prod1{
+  background-color: #2f6144;
+  padding: 35px;
+  text-align: center;
+  text-decoration-color: #2f6144;
+}
+
+.prod2{
+  background-color: #fcfdfe;
+  padding: 35px;
+  text-align: center;
+  text-decoration-color: #2f6144;
+}
+
+.productoshome{
+  margin: 0px;
+}
+
+.imgproductos{
+  border-radius: 50px;
+}
+
+.titulosprod{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.videohome{
+  margin: 0px;
+  padding: 0px;
+}
+
+.footer{
+  margin: 0px;
+  background-color: #2f6144;
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.copyright1{
+  font-family: roboto;
+  background-color: #404040;
+  font-size: 14px;
+  text-align: center;
+  padding: 15px;
+}
+
+.headerstarbucks{
+  background-image: url('imagen/facade.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+  background-position: 0 -250px;
+  padding: 70px;
+  margin-right: 0px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  margin-top: 80px;
+}
+
+.nosotros1{
+  margin-top: 80px;
+}
+
+.headercontact{
+  background-image: url('imagen/contact.webp');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+  background-position: 0 -250px;
+  padding: 70px;
+  margin-right: 0px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  margin-top: 80px;
+
+}
+
+.h2{
+  font-size: 50px;
+  font-family: roboto;
+  font-style: bold;
+}
+
+.form1{
+  margin-top: 50px;
+  margin-bottom: 25px;
+  padding: 45px;
+  background-color: #2f6144;
+  border-radius: 20px;
+}
+
+.form2{
+  margin-top: 50px;
+  margin-bottom: 25px;
+  padding: 45px;
+  background-color: #2f6144;
+  border-radius: 20px;
+}
+
+.contactbody{
+  padding-left: 70px;
+  padding-right: 70px;
+}
